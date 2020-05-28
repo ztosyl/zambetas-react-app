@@ -1,26 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import BackgroundImage from './components/BackgroundImage'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <BackgroundImage>
+  <div>
+    <h1>Welcome to React!</h1>
+  </div>
+  </BackgroundImage>
+  )
 }
 
 export default App;

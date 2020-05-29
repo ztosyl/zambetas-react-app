@@ -3,3 +3,34 @@
   background-size: cover;
   height: 100vh;
 }
+
+.quote {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: 30px;
+}
+
+.time-and-greeting {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  font-size: 40px;
+  bottom: 50vh;
+}
+
+.time {
+  font-size: 90px;
+  margin: 0;
+}
+
+.weather {
+  padding-top: 10px;
+  margin-right: 20px;
+  font-size: 25px;
+}
+
+.weather-container {
+  display: flex;
+  justify-content: flex-end;
+}

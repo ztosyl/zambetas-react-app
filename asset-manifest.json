@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zambetas-react-app/static/css/main.5313967e.chunk.css",
+    "main.js": "/zambetas-react-app/static/js/main.af955303.chunk.js",
+    "main.js.map": "/zambetas-react-app/static/js/main.af955303.chunk.js.map",
+    "runtime-main.js": "/zambetas-react-app/static/js/runtime-main.59fe74b1.js",
+    "runtime-main.js.map": "/zambetas-react-app/static/js/runtime-main.59fe74b1.js.map",
+    "static/js/2.5c5dce75.chunk.js": "/zambetas-react-app/static/js/2.5c5dce75.chunk.js",
+    "static/js/2.5c5dce75.chunk.js.map": "/zambetas-react-app/static/js/2.5c5dce75.chunk.js.map",
+    "index.html": "/zambetas-react-app/index.html",
+    "precache-manifest.483246d9bb6d0aac804bbe5240d884c7.js": "/zambetas-react-app/precache-manifest.483246d9bb6d0aac804bbe5240d884c7.js",
+    "service-worker.js": "/zambetas-react-app/service-worker.js",
+    "static/css/main.5313967e.chunk.css.map": "/zambetas-react-app/static/css/main.5313967e.chunk.css.map",
+    "static/js/2.5c5dce75.chunk.js.LICENSE.txt": "/zambetas-react-app/static/js/2.5c5dce75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fe74b1.js",
+    "static/js/2.5c5dce75.chunk.js",
+    "static/css/main.5313967e.chunk.css",
+    "static/js/main.af955303.chunk.js"
+  ]
+}

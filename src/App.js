@@ -1,5 +1,5 @@
 import React from 'react';
-// import BackgroundImage from './components/BackgroundImage'
+import BackgroundImage from './components/BackgroundImage'
 import Weather from './components/Weather'
 import Quote from './components/Quote'
 import moment from 'moment'
@@ -30,7 +30,7 @@ const getTimeOfDay = () => {
   }
 }
   return (
-  // <BackgroundImage>
+<BackgroundImage>
   <div>
     <Weather />
     <div className='time-and-greeting'>
@@ -39,7 +39,7 @@ const getTimeOfDay = () => {
     </div>
     <Quote />
   </div>
-  // </BackgroundImage>
+</BackgroundImage>
   )
 }
 
